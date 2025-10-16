@@ -1,0 +1,13 @@
+langchain_openai
+streamlit
+langchain
+langchain_community
+chromadb
+PyPDF2
+tiktoken
+python-doc
+pandas
+openpyxl
+xlrd
+requests
+hnswlip
