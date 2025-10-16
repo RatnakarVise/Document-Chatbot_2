@@ -10,4 +10,3 @@ pandas
 openpyxl
 xlrd
 requests
-hnswlip
